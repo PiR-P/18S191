@@ -1,7 +1,11 @@
 # 18S191 course website
 
 The website was written in Franklin.jl - a static site generator with Julia as templating language.
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> upstream/master
 Whenever you push to this folder of the repository, the website will automatically rebuild and update. To test your changes locally before pushing, follow these steps:
 
 1. In a terminal, navigate to this folder using `cd`.
@@ -18,4 +22,8 @@ julia> using Franklin
 julia> serve()
 ```
 
+<<<<<<< HEAD
 Franklin will now launch a _live dev server_: whenever you change a file, your browser tab will automatically refresh.
+=======
+Franklin will now launch a _live dev server_: whenever you change a file, your browser tab will automatically refresh.
+>>>>>>> upstream/master
